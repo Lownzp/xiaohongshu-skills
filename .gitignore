@@ -1,0 +1,15 @@
+# 本地数据与运行产物
+outputs/
+runtime-profiles/
+*.log
+favorites-*.json
+dig-*.json
+ask-*.json
+refs-*.json
+tmp_*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
